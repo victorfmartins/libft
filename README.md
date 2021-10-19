@@ -11,4 +11,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made by Victor MArtins [See my linkedin](www.linkedin.com/in/victor-franco-martins-1503a417b)
+Made by Victor Martins [See my linkedin](www.linkedin.com/in/victor-franco-martins-1503a417b)
